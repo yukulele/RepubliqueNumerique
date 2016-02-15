@@ -1,4 +1,4 @@
-# Titre I<sup>er</sup> : La circulation des donnÉes et du savoir
+# Titre I<sup>er</sup> : La circulation des données et du savoir
 
 ## Chapitre I<sup>er</sup> : Économie de la donnée
 
