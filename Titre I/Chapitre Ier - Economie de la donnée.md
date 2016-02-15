@@ -1,14 +1,8 @@
-# Titre I<sup>er</sup>
+# Titre I<sup>er</sup> : La circulation des donnÉes et du savoir
 
-La circulation des donnÉes et du savoir
+## Chapitre I<sup>er</sup> : Économie de la donnée
 
-## Chapitre I<sup>er</sup>
-
-Économie de la donnée
-
-### Section 1
-
-Ouverture de l’accès aux données publiques
+### Section 1 : Ouverture de l’accès aux données publiques
 
 #### Article 1<sup>er</sup>
 
@@ -351,9 +345,7 @@ Les collectivités territoriales et leurs établissements publics encouragent l�
 Logiciels libres et des formats ouverts lors du développement, de l’achat ou de l’utilisation d’un
 Système informatique.
 
-### Section 2
-
-Données d’intérêt général
+### Section 2 : Données d’intérêt général
 
 #### Article 10
 
@@ -468,9 +460,7 @@ Récidive dans un délai de trois ans, le montant de l’amende peut être port�
 Insertion dans des publications, journaux et supports qu’il désigne aux frais des personnes
 Sanctionnées. »
 
-### Section 3
-
-Gouvernance
+### Section 3 : Gouvernance
 
 #### Article 13
 
